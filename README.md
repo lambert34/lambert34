@@ -22,7 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambert34&show_icons=true&locale=en" alt="lambert34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lambert34&" alt="lambert34" /></p>
-<p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ImKunYoung&count_private=true&show_icons=true"/></a>
-</p>
+
